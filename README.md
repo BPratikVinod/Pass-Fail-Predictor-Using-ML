@@ -1,2 +1,6 @@
 # Pass-Fail-Predictor-Using-ML
-This repo contains a .ipynb file which visualises the data from the dataset using various libraries such as Pandas, Matplotlib, seaborn, etc.
+
+First of all open terminal in vscode and hit this command:
+``` pip install -r requirements.txt ```
+
+Now start running all the cells to see the output.
